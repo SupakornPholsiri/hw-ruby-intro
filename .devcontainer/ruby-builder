@@ -1,0 +1,3 @@
+FROM ruby:2.6.6
+# Install bundler gem
+RUN gem install bundler
